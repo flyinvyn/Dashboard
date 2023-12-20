@@ -21,7 +21,7 @@ const Chat = () => {
                         <div className='w-10 h-10 rounded-full'>
                             <img className='rounded-full' src={avatar} alt="avatar" />
                         </div>
-                        <p className='bg-gray-100 p-2 rounded-r-lg rounded-t-lg text-black font-medium'>I have prepared everythink</p>
+                        <p className='bg-gray-100 p-2 rounded-r-lg rounded-t-lg text-black font-medium'>I have prepared everything</p>
                     </div>
                     <div className='bg-gray-100 absolute top-36 w-full h-28 rounded-xl'>
                         <textarea className='p-3 bg-transparent focus:outline-none active:outline-none w-full' placeholder='Type your message' />
